@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Youngmin
+email: youngmin@fleep.io
+description: 이영민> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username:fromminn
+github_username:eyoungmin
 
 # Build settings
 markdown: kramdown
